@@ -484,9 +484,7 @@ Once the backend is running, visit:
 
 This project is licensed under the ISC License.
 
-## 👥 Authors
 
-- **Arjunan24z** - [GitHub Profile](https://github.com/Arjunan24z)
 
 ## 🙏 Acknowledgments
 
